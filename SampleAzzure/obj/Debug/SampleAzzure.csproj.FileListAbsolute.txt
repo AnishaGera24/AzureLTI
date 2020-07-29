@@ -1,0 +1,7 @@
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\bin\Debug\SampleAzzure.exe.config
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\bin\Debug\SampleAzzure.exe
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\bin\Debug\SampleAzzure.pdb
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\obj\Debug\SampleAzzure.csprojAssemblyReference.cache
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\obj\Debug\SampleAzzure.csproj.CoreCompileInputs.cache
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\obj\Debug\SampleAzzure.exe
+C:\Users\Anisha\Desktop\LTI\Day3_devops\SampleAzzure\SampleAzzure\obj\Debug\SampleAzzure.pdb

@@ -10,6 +10,8 @@ namespace SampleAzzure
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello from azure");
+            Console.ReadKey();
         }
     }
 }
